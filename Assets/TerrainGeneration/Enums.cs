@@ -1,0 +1,1 @@
+﻿public enum ToolType{None,Normal, Brush,Info, Bumps,Biolog }
